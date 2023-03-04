@@ -1,2 +1,2 @@
-# Lemickeyy-x-otsutuskiwi-xGUTEMALANBO
+# Lemickeyy-x-otsutuskiwi-x-GUTEMALANBO
 WE UPPPPP!
