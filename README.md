@@ -1,2 +1,2 @@
 # Lemickeyy-x-otsutuskiwi-x-GUTEMALANBO
-WE UPPPPP!
+IT'S A PARTY UP IN MY CITY AYYY!!!!!
