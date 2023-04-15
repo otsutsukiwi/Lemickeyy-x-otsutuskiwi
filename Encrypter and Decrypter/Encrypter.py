@@ -4,7 +4,7 @@ key = "3wy3T6eU6W0m1L"
 key_list = [ord(i) for i in key]
 true_key = sum(key_list)
 
-text = "Uday is so cool!"
+text = "cool!"
 text_list = [ord(i) for i in text]
 
 gen_l = []
